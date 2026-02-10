@@ -1788,3 +1788,6 @@
 172.30.0.1 - - [10/Feb/2026:04:18:51 +0000] "GET / HTTP/1.1" 500 5 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
 172.30.0.1 - - [10/Feb/2026:04:18:53 +0000] "GET / HTTP/1.1" 500 5 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
 172.30.0.1 - - [10/Feb/2026:04:18:59 +0000] "GET / HTTP/1.1" 500 5 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+172.30.0.1 - - [10/Feb/2026:04:20:14 +0000] "GET / HTTP/1.1" 200 8064 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+172.30.0.1 - - [10/Feb/2026:04:20:19 +0000] "GET /login HTTP/1.1" 500 1029606 "https://laravel.test/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+172.30.0.1 - - [10/Feb/2026:04:20:54 +0000] "GET /login HTTP/1.1" 200 1484 "https://laravel.test/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
